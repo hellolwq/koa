@@ -2,6 +2,7 @@
   "name": "koa",
   "version": "2.4.1",
   "description": "Koa web app framework",
+  "//": "koa入口",
   "main": "lib/application.js",
   "scripts": {
     "test": "jest",
